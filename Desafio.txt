@@ -1,0 +1,32 @@
+Objetivo: identificar o nível de conhecimento dos processos relacionados à ciência de dados, bem como a resolução de problemas, metodologias e técnicas aplicadas.
+
+
+
+Para a resolução do teste é fornecido um conjunto de dados, baseada na fonte aberta: https://archive.ics.uci.edu/ml/datasets/South+German+Credit+%28UPDATE%29
+Mas fornecida nesse teste em CSV (credit_risk_dataset.csv) com alterações na base cuja informação das variáveis pode ser obtida no arquivo README.Md.
+
+A proposta do teste é que você desenvolva dois modelos para prever a coluna “credit_risk”, analise e escolha o mais adequado. Caso você se sinta mais à vontade em trabalhar com problemas que a variável resposta é um valor real, você pode escolher prever a coluna “credit_duration”, qualquer uma das abordagens é válida e é necessário escolher e desenvolver apenas uma delas.
+
+
+
+O que você deve fazer nesse teste:
+
+- Análise exploratória dos dados e tratamentos se forem necessários;
+
+- Escolher dois tipos de modelo, comparar os resultados e eleger um deles justificando a sua escolha.
+
+
+
+Observações:
+
+- É muito importante que você explique o passo a passo, as escolhas feitas, justifique e apresente as conclusões em cada etapa;
+
+- Caso não se sinta à vontade em alguma parte ou não tenha tempo suficiente para concluir o teste, tente apresentar como você pretendia desenvolver essa parte.
+
+- Por fim, é legal apresentar as coisas que você poderia ter feito a mais ou como faria para avançar o estudo.
+
+- Recomendamos fortemente que o projeto seja desenvolvido no Jupyter Notebook para uma melhor visualização das suas justificativas e conclusões juntamente ao código.
+
+Você pode responder a esta pergunta com um link ou escrever "Teste finalizado" e enviar para o e-mail: recrutamento@tradetechnology.com.br
+
+Bom teste!
